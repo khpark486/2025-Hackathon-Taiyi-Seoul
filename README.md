@@ -30,3 +30,7 @@ A Telegram bot that automatically analyzes and records user manner scores in gro
 - @jayplayco - Project Planning & Strategy
 - @snackplus - Backend Development, AI Integration & Blockchain Development
 - @diver_sy - Frontend Development & UI/UX Design 
+
+## Testing
+To test the bot, please join our Telegram group:
+- Telegram Group: [https://t.me/+LZ2lkm2hRUs4Mzg1](https://t.me/+LZ2lkm2hRUs4Mzg1) 
